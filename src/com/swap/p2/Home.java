@@ -1,11 +1,6 @@
 package com.swap.p2;
 
 import java.sql.SQLException;
-/*import java.io.FileNotFoundException;
- import java.io.FileOutputStream;
- import java.io.IOException;
- import java.io.InputStream;
- import java.io.OutputStream;*/
 
 import android.app.Activity;
 import android.content.Context;
